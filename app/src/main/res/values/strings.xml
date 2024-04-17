@@ -1,0 +1,10 @@
+<resources>
+    <!-- Other string resources -->
+    <string name="app_name">YourAppName</string>
+
+    <string-array name="pronunciations_array">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <!-- Add more pronunciation options as needed -->
+    </string-array>
+</resources>
